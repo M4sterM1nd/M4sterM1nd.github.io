@@ -2,6 +2,26 @@ body {
 	background-color: black;
 }
 
+/*
+#photo {
+	margin: auto;
+	position: relative;
+	text-align: center;
+	top: 250px;
+}
+
+#photo img {
+	z-index: 1;
+	display: block;
+	margin: auto;
+	vertical-align: middle;
+	width: 25%;
+	height: 25%;
+	border-radius: 50%;
+	transform: rotate(90deg);
+}
+*/
+
 #landing-header {
 	z-index: 1;
 	position: relative;
